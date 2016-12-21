@@ -115,11 +115,12 @@ form{
 	border: 1px solid black;
 }
 
-.ad{
-	clear: left;
-	height: 310px;
-	overflow: hidden;
-}
+.swiper-container {
+    width: 1000px;
+    height: 300px;
+} 
+
+
 
 
 
